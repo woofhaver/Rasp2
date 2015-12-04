@@ -6,8 +6,4 @@ C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\obj\Debug\
 C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\bin\Raspberry.IO.dll
 C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\bin\Raspberry.IO.GeneralPurpose.dll
 C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\bin\Raspberry.IO.Interop.dll
-C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\bin\Raspberry.System.dll
-C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\bin\Raspberry.IO.xml
-C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\bin\Raspberry.IO.GeneralPurpose.xml
-C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\bin\Raspberry.System.xml
 C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\obj\Debug\webtest.csprojResolveAssemblyReference.cache

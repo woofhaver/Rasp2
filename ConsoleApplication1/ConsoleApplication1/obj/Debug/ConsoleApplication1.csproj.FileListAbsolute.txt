@@ -1,0 +1,5 @@
+C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

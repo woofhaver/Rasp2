@@ -14,5 +14,10 @@ namespace webtest.Controllers
 
             return View();
         }
+
+        public string Index(string test)
+        {
+            return "asdf";
+        }
     }
 }

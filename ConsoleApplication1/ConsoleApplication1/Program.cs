@@ -14,6 +14,7 @@ namespace ConsoleApplication1
         {
             var redLed = ConnectorPin.P1Pin07.Output();
             var gpio = new GpioConnection(redLed);
+
             gpio.Toggle(redLed);
 
             Thread.Sleep(10000);

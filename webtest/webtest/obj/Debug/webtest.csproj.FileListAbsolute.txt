@@ -27,6 +27,5 @@ C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\bin\System
 C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\bin\System.Web.WebPages.Deployment.xml
 C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\bin\System.Web.WebPages.Razor.xml
 C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\bin\Antlr3.Runtime.pdb
-C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\obj\Debug\webtest.csprojResolveAssemblyReference.cache
 C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\obj\Debug\webtest.dll
 C:\Users\woofhaver\Documents\GitHubVisualStudio\Rasp2\webtest\webtest\obj\Debug\webtest.pdb

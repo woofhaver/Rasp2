@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Raspberry.IO.GeneralPurpose;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -18,6 +19,11 @@ namespace webtest.Controllers
         // GET api/values/5
         public string Get(int id)
         {
+            var redLed = ConnectorPin.P1Pin07.Output();
+            var gpio = new GpioConnection(redLed);
+
+            gpio.Toggle(redLed);
+            
             return "value";
         }
 

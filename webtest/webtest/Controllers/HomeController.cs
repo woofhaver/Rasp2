@@ -15,7 +15,7 @@ namespace webtest.Controllers
             return View();
         }
 
-        public string Index(string test)
+        public string Get(string test)
         {
             return "asdf";
         }

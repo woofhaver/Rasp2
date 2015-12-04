@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+<Reference Include="mscorlib" />
     <Reference Include="Raspberry.IO, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Raspberry.IO.GeneralPurpose.2.3.0\lib\net40\Raspberry.IO.dll</HintPath>
       <Private>True</Private>

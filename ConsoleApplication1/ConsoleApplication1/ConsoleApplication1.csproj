@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-<Reference Include="mscorlib" />
+    <Reference Include="mscorlib" />
     <Reference Include="Raspberry.IO, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Raspberry.IO.GeneralPurpose.2.3.0\lib\net40\Raspberry.IO.dll</HintPath>
       <Private>True</Private>
@@ -66,7 +66,22 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="bin\Debug\ConsoleApplication1.exe.config" />
+    <None Include="bin\Debug\ConsoleApplication1.vshost.exe.config" />
+    <None Include="bin\Debug\ConsoleApplication1.vshost.exe.manifest" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\ConsoleApplication1.exe" />
+    <Content Include="bin\Debug\ConsoleApplication1.pdb" />
+    <Content Include="bin\Debug\ConsoleApplication1.vshost.exe" />
+    <Content Include="bin\Debug\Raspberry.IO.dll" />
+    <Content Include="bin\Debug\Raspberry.IO.GeneralPurpose.dll" />
+    <Content Include="bin\Debug\Raspberry.IO.GeneralPurpose.xml" />
+    <Content Include="bin\Debug\Raspberry.IO.Interop.dll" />
+    <Content Include="bin\Debug\Raspberry.IO.xml" />
+    <Content Include="bin\Debug\Raspberry.System.dll" />
+    <Content Include="bin\Debug\Raspberry.System.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
